@@ -1,0 +1,8 @@
+config.ini
+credentials.json
+token.json
+
+mxi_debug/
+__pycache__/
+
+*.pyc
